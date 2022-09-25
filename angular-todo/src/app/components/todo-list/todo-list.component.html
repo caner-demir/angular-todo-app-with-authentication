@@ -1,0 +1,21 @@
+<h2>Todo Angular</h2>
+
+<input type="text" class="todo-input" placeholder="What needs to be done?" [(ngModel)]="todoTitle" (keyup.enter)="addTodo()"/>
+
+<div class="todo-item" *ngFor="let todo of todosFiltered()">
+    <div class="todo-item-left">
+        <input type="checkbox" [(ngModel)]="todo.isCompleted" (click)="updateStatus(todo)">
+        <div class="todo-item-label" [ngClass]="{'completed' : todo.isCompleted}">{{ todo.title }}</div>
+    </div>
+    <div class="remove-item" (click)="deleteTodo(todo.id)">
+        &times;
+    </div>
+</div>
+
+<div class="extra-container">
+    <div>
+        <button [ngClass]="{'active' : filter === 'all'}" (click)="filter = 'all'">All</button>
+        <button [ngClass]="{'active' : filter === 'active'}" (click)="filter = 'active'">Active</button>
+        <button [ngClass]="{'active' : filter === 'completed'}" (click)="filter = 'completed'">Completed</button>
+    </div>
+</div>

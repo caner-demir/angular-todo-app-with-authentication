@@ -1,0 +1,17 @@
+<h2>Todo Angular</h2>
+
+<form (submit)="login()" [formGroup]="loginForm">
+    <input formControlName="userName" type="text" class="todo-input" placeholder="User Name"/>
+    <input formControlName="password" type="password" class="todo-input" placeholder="Password"/>
+    <span *ngIf="!isCorrectCredentials">
+        Invalid login credentials.
+    </span>
+    <div class="extra-container">
+        <div>
+            <button type="submit" [disabled]="!loginForm.valid">Login</button>
+        </div>
+        <div>
+            <button type="button" routerLink="/register">Redirect to Register</button>
+        </div>
+    </div>
+</form>

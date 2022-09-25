@@ -1,0 +1,17 @@
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.DataAccess.deps.json
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.DataAccess.runtimeconfig.json
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.DataAccess.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.DataAccess.pdb
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.Entities.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\bin\Debug\net6.0\TodoAPI.Entities.pdb
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.AssemblyInfo.cs
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.csproj.CopyComplete
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\refint\TodoAPI.DataAccess.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.pdb
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\TodoAPI.DataAccess.genruntimeconfig.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.DataAccess\obj\Debug\net6.0\ref\TodoAPI.DataAccess.dll

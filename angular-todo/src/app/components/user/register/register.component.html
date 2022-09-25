@@ -1,0 +1,18 @@
+<h2>Todo Angular</h2>
+
+<form (submit)="register()" [formGroup]="registerForm">
+    <input formControlName="userName" type="text" class="todo-input" placeholder="User Name"/>
+    <input formControlName="password" type="password" class="todo-input" placeholder="Password"/>
+    <input formControlName="confirmPassword" type="password" class="todo-input" placeholder="Confirm Password"/>
+    <span *ngIf="registerForm.hasError('notSame') && registerForm.get('confirmPassword')?.touched">
+        Passwords do not match.
+    </span>
+    <div class="extra-container">
+        <div>
+            <button type="submit" [disabled]="!registerForm.valid">Register</button>
+        </div>
+        <div>
+            <button type="button" routerLink="">Redirect to Login</button>
+        </div>
+    </div>
+</form>

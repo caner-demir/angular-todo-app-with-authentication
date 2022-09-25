@@ -1,0 +1,12 @@
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\bin\Debug\net6.0\TodoAPI.Entities.deps.json
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\bin\Debug\net6.0\TodoAPI.Entities.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\bin\Debug\net6.0\TodoAPI.Entities.pdb
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.AssemblyInfo.cs
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\refint\TodoAPI.Entities.dll
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\TodoAPI.Entities.pdb
+C:\Users\Caner Demir\Caner\TodoApp\TodoAPI\TodoAPI.Entities\obj\Debug\net6.0\ref\TodoAPI.Entities.dll
